@@ -1,11 +1,34 @@
+.recipe-content{
+    display:inline-block;
+    padding:0px;
+    width:450px;
+}
+
+img{
+    display:inline-block;
+    width:300px;
+    height: 350px;
+    vertical-align: top;
+    margin-top:15px;
+}
+
+
 h1{
-    font-size: 30px;
+    
     color:cornflowerblue;
     text-align: center;
+    
 }
 
 h2{
     color:mediumslateblue;
+    
+    text-align: center;
+}
+
+h3{
+    color:mediumslateblue;
     background-color:lavender;
     text-align: center;
+    margin-top:15px
 }
