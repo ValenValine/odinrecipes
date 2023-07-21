@@ -1,3 +1,19 @@
+.recipe-content{
+    display: inline-block;
+    width:478px;
+    margin-top:15px;
+    padding:0px;
+}
+
+img{
+    display:inline-block;
+    width:300px;
+    height:370px;
+    vertical-align: top;
+    margin-top:15px;
+}
+
+
 h1{
     font-size: 30px;
     color:olivedrab;
@@ -8,4 +24,6 @@ h2{
     color:darkolivegreen;
     background-color:palegoldenrod;
     text-align: center;
+    margin-top:0px
 }
+
