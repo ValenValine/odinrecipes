@@ -1,17 +1,31 @@
+body{
+    background-color:blanchedalmond;
+}
+
+
 h1{
     font-weight: 700;
     font-family:'Verdana', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
     text-align: center;
-    color:chocolate;
-    background-color: lightgoldenrodyellow;
+    color:burlywood;
+    ;
 }
 
 li{
     list-style-type:none;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
     font-family: 'Verdana';
     text-align: center;
     color: burlywood;
+}
+
+img{
+    width:230px;
+}
+
+
+ul li{
+    display:inline-block;
 }
